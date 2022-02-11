@@ -1,4 +1,4 @@
-# [Hi, I'm RoxsRoss]
+# [Hello, Hello I'm RoxsRoss]
 
 
 <a href="https://295devops.com">
@@ -6,11 +6,11 @@
 </a>
 
 <samp>
-I'm a full-time software engineering DevOps|DevSecOps, Venezuela-Argentina 
+Soy Ingeniera en Sistemas con superpoderes de DevOps|DevSecOps, Soy de Venezuela, pero actualmente en Argentina 
 </samp>
 
 <h2>
-Encuéntrame en la web 🌎:
+Encuéntrame en la web como roxsross 🌎:
 </h2>
 
 <samp>
@@ -30,6 +30,9 @@ Encuéntrame en la web 🌎:
 [![Website Roxs](https://img.shields.io/badge/-roxsross-blue?style=flat&logo=GoogleChrome&logoColor=white&link=https://295devops.com)](https://295devops.com)
 [![Instagram Roxs](https://img.shields.io/badge/-roxsross-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/roxsross/)](https://instagram.com/roxsross)
 [![Linkedin Roxs](https://img.shields.io/badge/-roxsross-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roxsross/)](https://www.linkedin.com/in/roxsross/)
-  
+
+<samp>
+Por cada 20 proyectos que he intentado, 15 han fallado y 5 han funcionado, pero he aprendido mucho y ese es mi mensaje: la vida es un lienzo en blanco y da igual si eres un joven estudiante, tienes familia o estás jubilado, todo empieza por uno mismo, así que provoca algo dentro de ti que luego cree cambio fuera". 
+<samp>
   </div>
 
