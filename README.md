@@ -32,7 +32,7 @@ Encuéntrame en la web como roxsross 🌎:
 [![Linkedin Roxs](https://img.shields.io/badge/-roxsross-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roxsross/)](https://www.linkedin.com/in/roxsross/)
 
 <samp>
-Por cada 20 proyectos que he intentado, 15 han fallado y 5 han funcionado, pero he aprendido mucho y ese es mi mensaje: la vida es un lienzo en blanco y da igual si eres un joven estudiante, tienes familia o estás jubilado, todo empieza por uno mismo, así que provoca algo dentro de ti que luego cree cambio fuera". 
+"Por cada 20 proyectos que he intentado, 15 han fallado y 5 han funcionado, pero he aprendido mucho y ese es mi mensaje: la vida es un lienzo en blanco y da igual si eres un joven estudiante, tienes familia o estás jubilado, todo empieza por uno mismo, así que provoca algo dentro de ti que luego cree cambio fuera". 
 <samp>
   </div>
 
