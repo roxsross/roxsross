@@ -29,7 +29,7 @@ Encuéntrame en la web como roxsross 🌎:
 
 <div align="left">
   
-[![Website Roxs](https://img.shields.io/badge/-roxsross-blue?style=flat&logo=GoogleChrome&logoColor=white&link=https://295devops.com)](https://295devops.com)
+[![Website Roxs](https://img.shields.io/badge/-roxsross-blue?style=flat&logo=GoogleChrome&logoColor=white&link=https://295devops.com)](https://roxs.295devops.com)
 [![Instagram Roxs](https://img.shields.io/badge/-roxsross-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/roxsross/)](https://instagram.com/roxsross)
 [![Linkedin Roxs](https://img.shields.io/badge/-roxsross-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roxsross/)](https://www.linkedin.com/in/roxsross/)
 
