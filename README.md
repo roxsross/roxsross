@@ -6,11 +6,11 @@
 </a>
 
 <samp>
-Soy Ingeniera en Sistemas con superpoderes de DevOps|DevSecOps, Soy de Venezuela, pero actualmente en Argentina 
+    Soy Ingeniera en Sistemas con superpoderes de DevOps|DevSecOps 
 </samp>
 
 <h2>
-Encuéntrame en la web como roxsross 🌎:
+    Encuéntrame en la web como roxsross 🌎:
 </h2>
 
 <samp>
@@ -38,5 +38,5 @@ Encuéntrame en la web como roxsross 🌎:
 <samp>
   </div>
   
-  > Comprarme un cafe! [![Comprar](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/roxsross)
+  > Coffee Time! [![Comprar](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/roxsross)
 
