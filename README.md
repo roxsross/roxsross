@@ -38,5 +38,8 @@
 <samp>
   </div>
   
-  > Coffee Time! [![Comprar](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/roxsross)
+ <samp> Coffee Time!
+     <samp>
+         <br>
+    [![Comprar](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/roxsross)
 
