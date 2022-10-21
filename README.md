@@ -1,16 +1,19 @@
 # [Hello, Hello I'm RoxsRoss]
-
-
 <a href="https://295devops.com">
-<img align="left" width="30%" src="https://raw.githubusercontent.com/roxsross/roxsross/main/images/ezgif-2-8e9823f649.gif">
+<img align="left" width="30%" src="https://raw.githubusercontent.com/roxsross/roxsross/main/images/Copia de ROXSROSS FINAL (1).png">
 </a>
-
 <samp>
-    Soy Ingeniera en Sistemas con superpoderes de DevOps|DevSecOps 
+    Soy Ingeniera en Sistemas con superpower She-Roxs 🔥 de SRE|DevOps|DevSecOps
+    <br>
+    AWS Community Builder Program Container ⚡
+     <br>
+    GITLAB Hero 🚀
+     <br>
+     Speaker and Mentor 🦸‍♀️
 </samp>
 
 <h2>
-    Encuéntrame en la web como roxsross 🌎:
+    Encuéntrame como @roxsross 🤩:
 </h2>
 
 <samp>
@@ -20,9 +23,8 @@
 [📖](https://dev.to/roxsross) Escribiendo un poco, mantenerse al día, así que encuéntrame en <a href="https://dev.to/roxsross"><img alt="dev" src="https://img.shields.io/badge/-roxsross-e9e5d0?style=flat&logo=google&logoColor=956f46&link=https://dev.to/roxsross" width="80px"/></a><br>
 
 [🎥](https://www.youtube.com/channel/UCa-FcaB75ZtqWd1YCWW6INQ) De vez en cuando subo un video en Youtube <a href="https://www.youtube.com/channel/UCa-FcaB75ZtqWd1YCWW6INQ"><img alt="youtube" src="https://img.shields.io/youtube/channel/subscribers/UCa-FcaB75ZtqWd1YCWW6INQ?logo=youtube" width="80px"/></a><br>
-<br>
 ☕️ ¡Siempre lista para tomar un café si estás cerca!!
-  
+<br>
 </samp>
 
 <br>
@@ -38,8 +40,5 @@
 <samp>
   </div>
   
- <samp> Coffee Time!
-     <samp>
-         <br>
-    [![Comprar](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/roxsross)
+   [![Comprar](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/roxsross)
 
