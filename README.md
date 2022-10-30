@@ -3,7 +3,7 @@
 <img align="left" width="30%" src="https://raw.githubusercontent.com/roxsross/roxsross/main/images/Copia de ROXSROSS FINAL (1).png">
 </a>
 <samp>
-    Soy Ingeniera en Sistemas con superpower She-Roxs 🔥 de SRE|DevOps|DevSecOps
+    Soy Ingeniera en Sistemas con superpower She-Roxs 🔥 SRE|DevOps|DevSecOps
     <br>
     AWS Community Builder Program Container ⚡
      <br>
