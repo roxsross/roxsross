@@ -7,6 +7,8 @@
     <br>
     AWS Community Builder Program Container ⚡
      <br>
+    AWS Container Hero 🚀
+     <br>
     GITLAB Hero 🚀
      <br>
      Speaker and Mentor 🦸‍♀️
