@@ -1,9 +1,9 @@
 # [Hello, Hello I'm RoxsRoss]
 <a href="https://295devops.com">
-<img align="left" width="30%" src="https://raw.githubusercontent.com/roxsross/roxsross/main/images/Copia de ROXSROSS FINAL (1).png">
+<img align="left" width="20%" src="https://raw.githubusercontent.com/roxsross/roxsross/main/images/Copia de ROXSROSS FINAL (1).png">
 </a>
 <samp>
-    Soy Ingeniera en Sistemas con superpower She-Roxs 🔥 SRE|DevOps|DevSecOps
+    Soy Ingeniera en Sistemas con superpower🔥 SRE|DevOps|DevSecOps
     <br>
     AWS Hero Container 🚀
      <br>
