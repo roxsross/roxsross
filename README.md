@@ -23,7 +23,7 @@
 Me llamo Rossana Suarez @roxsross y actualmente trabajo como Tech Lead DevOps. Me encanta programar y la tecnología en general, por eso en él hablo de todo esto. 
 De lo que vivo, de lo que aprendo y de lo que hago con la tecnología en mi día a día.
 <br>
-"No se puede crecer si no estas dispuesto a saltar a la zona del peligro 🔥"
+
 
 <a href="https://295devops.com">
 <img align="left" width="20%" src="https://raw.githubusercontent.com/roxsross/roxsross/main/images/Copia de ROXSROSS FINAL (1).png">
@@ -36,9 +36,11 @@ De lo que vivo, de lo que aprendo y de lo que hago con la tecnología en mi día
     Docker Captain 🐳
     <br>
     AWS Community Builder Program Container ⚡
-     <br>
+    <br> 
     Speaker and Mentor 🦸‍♀️
-</samp>
+    <br>
+    "No se puede crecer si no estas dispuesto a saltar a la zona del peligro 🔥"
+
 <samp>
 <br>
     <br>
@@ -72,6 +74,7 @@ Me puedes encontrar en:
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/roxsross)](https://www.instagram.com/roxsross/)
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCa-FcaB75ZtqWd1YCWW6INQ)](https://www.youtube.com/channel/UCa-FcaB75ZtqWd1YCWW6INQ)
 
+![](./images/roxsross-banner.png)
 
 <samp>
 "Para entender algo no debes entenderlo sino serlo"
