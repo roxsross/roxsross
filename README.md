@@ -45,8 +45,6 @@ De lo que vivo, de lo que aprendo y de lo que hago con la tecnología en mi día
 <br>
     <br>
     <br>
-    <br>
-    <br>
     
 #### 🥰 &nbsp;Me gusta... 
 
