@@ -29,7 +29,7 @@ De lo que vivo, de lo que aprendo y de lo que hago con la tecnología en mi día
 <br>
 
 
-<a href="https://295devops.com">
+<a href="https://roxs.295devops.com">
 <img align="left" width="20%" src="https://raw.githubusercontent.com/roxsross/roxsross/main/images/Copia de ROXSROSS FINAL (1).png">
 </a>
 <samp>
