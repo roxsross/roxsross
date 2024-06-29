@@ -59,11 +59,19 @@ De lo que vivo, de lo que aprendo y de lo que hago con la tecnología en mi día
 🧑‍💻 &nbsp;Codear<br>
 
 ### Mis estadísticas
+<details open> 
+  <summary><h2>🔥 GitHub Profile Stats</h2></summary>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=roxsross&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roxsross&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=4"/>
-</p>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="RoxsRoss's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=roxsross&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="RoxsRoss's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roxsross&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+  <br/>
+  
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+  <!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="davila7's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=davila7&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> -->
+  
+</details>
 
 ### ✉️  &nbsp;Contacto 
 
