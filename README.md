@@ -1,95 +1,83 @@
-# [Hello, Hello I'm Roxs]
+# 👋 ¡Hola mundo! Soy Roxs, una DevOps on fire 🔥
 
+![Banner](./images/roxsross-banner-1.png)
+
+> 🚀 **AWS Container Hero** | 🐳 **Docker Captain** | 🧪 **GitLab Hero**  
+> 💻 Tech Lead DevOps | 🗣️ Speaker | 🦸‍♀️ Mentora  
+> 🌍 Construyendo, automatizando y compartiendo tecnología con pasión.
+
+🎯 *"No se puede crecer si no estás dispuesto a saltar a la zona del peligro 🔥"*
+
+---
+
+### 💻 Tecnologías que uso a diario
+
+#### ☁️ Cloud & Infra
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
+
+#### ⚙️ Contenedores & CI/CD
+![Docker](https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+![TeamCity](https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=TeamCity&logoColor=white)
+
+#### 🧠 Lenguajes
+![Python](https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge)
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![kubernetes](https://img.shields.io/badge/kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
-![Azure](https://img.shields.io/badge/azure-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge)
-![Amazon](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Gcp](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-![python](https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![github Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
-![Jenkins](	https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
-![city](https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=TeamCity&logoColor=white)
 
+---
 
-![](./images/roxsross-banner-1.png)
+### 🧑‍🚀 Sobre mí
 
-## ¡Bienvenid@s a la zona onfire de GitHub!
+Hola! Soy **Rossana Suarez**, más conocida como **Roxs**.  
+Soy Tech Lead DevOps, AWS Container Hero, GitLab Hero y Docker Captain.  
+Creo contenido técnico, lidero bootcamps, doy charlas y mentorías, y construyo comunidad alrededor del mundo DevOps.
 
-#### 🤔 &nbsp;¿Quién soy? 
+🧪 Me apasiona automatizarlo TODO.  
+🎙️ Hablo en eventos para inspirar a más personas a entrar al mundo tech.  
+🛠️ Creo herramientas, pipelines y labs para aprender haciendo.  
+🌎 Y lo mejor... ¡comparto todo para que nadie se quede afuera!
 
-Me llamo Rossana Suarez @roxsross y actualmente trabajo como Tech Lead DevOps. Me encanta programar y la tecnología en general, por eso en él hablo de todo esto. 
-De lo que vivo, de lo que aprendo y de lo que hago con la tecnología en mi día a día.
-<br>
+👉 [Visita mi sitio web](https://roxs.295devops.com)
 
+---
 
-<a href="https://roxs.295devops.com">
-<img align="left" width="20%" src="https://raw.githubusercontent.com/roxsross/roxsross/main/images/Copia de ROXSROSS FINAL (1).png">
-</a>
-<samp>
-    AWS Hero Container 🚀
-     <br>
-    GITLAB Hero 🚀
-     <br>
-    Docker Captain 🐳
-    <br>
-    AWS Community Builder Program Container ⚡
-    <br> 
-    Speaker and Mentor 🦸‍♀️
-    <br>
-    "No se puede crecer si no estas dispuesto a saltar a la zona del peligro 🔥"
+### 🎯 Stats GitHub
 
-<samp>
-<br>
-    <br>
-    <br>
-    
-#### 🥰 &nbsp;Me gusta... 
+<details open>
+  <summary><strong>📈 GitHub Stats</strong></summary>
 
-🌲 &nbsp;Senderismo<br>
-✈️ &nbsp;Viajar<br>
-🎬 &nbsp;Ir al cine<br>
-🎞️ &nbsp;Mirar Series<br>
-🧑‍💻 &nbsp;Codear<br>
-
-### Mis estadísticas
-<details open> 
-  <summary><h2>🔥 GitHub Profile Stats</h2></summary>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="RoxsRoss's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=roxsross&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="RoxsRoss's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roxsross&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
-  <br/>
-  
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
-  <!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="davila7's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=davila7&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> -->
-  
+  <p align="center">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=roxsross&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="180px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roxsross&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="180px"/>
+  </p>
 </details>
 
-### ✉️  &nbsp;Contacto 
+---
 
-Me puedes encontrar en:
+### 💬 Contacto
 
-[![site](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white&link=https://blog.295devops.com) ](https://blog.295devops.com)
-[![Blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&link=https://dev.to/roxsross)](https://dev.to/roxsross)
-![Twitter](https://img.shields.io/twitter/follow/roxsross?style=for-the-badge)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roxsross/)](https://www.linkedin.com/in/roxsross/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/roxsross)](https://www.instagram.com/roxsross/)
-[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCa-FcaB75ZtqWd1YCWW6INQ)](https://www.youtube.com/channel/UCa-FcaB75ZtqWd1YCWW6INQ)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roxsross/)
+[![Twitter](https://img.shields.io/twitter/follow/roxsross?style=for-the-badge)](https://twitter.com/roxsross)
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/roxsross)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCa-FcaB75ZtqWd1YCWW6INQ)
+[![Blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/roxsross)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.295devops.com)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/roxsross)
 
+---
 
+### 🌱 Bonus
 
-<samp>
-"Para entender algo no debes entenderlo sino serlo"
-<samp>
-  </div>
-  
-   [![Comprar](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&link=https://www.buymeacoffee.com/roxsross)](https://www.buymeacoffee.com/roxsross)
+> *"Para entender algo no debes entenderlo... sino serlo."*
+
+---
 
