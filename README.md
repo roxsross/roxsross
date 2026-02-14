@@ -157,16 +157,11 @@ exit 0 # siempre exitoso 😎
 
 ## 📈 GitHub Analytics
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=roxsross&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF2D55&icon_color=FFB800&text_color=C9D1D9&ring_color=FF6B35" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roxsross&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF2D55&text_color=C9D1D9&hide=Jupyter%20Notebook" />
-
 <br/>
 
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=roxsross&theme=radical&hide_border=true&background=0D1117&ring=FF2D55&fire=FFB800&currStreakLabel=FF6B35&sideLabels=FF6B35" />
+<img width="80%" src="https://streak-stats.demolab.com?user=roxsross&theme=radical&hide_border=true&background=0D1117&ring=FF2D55&fire=FFB800&currStreakLabel=FF6B35&sideLabels=FF6B35&currStreakNum=FF2D55&sideNums=FF2D55&dates=C9D1D9" />
 
 <br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=roxsross&bg_color=0D1117&color=FF2D55&line=FF6B35&point=FFB800&area=true&area_color=FF2D5520&hide_border=true&custom_title=🔥%20Contribution%20Graph" width="95%"/>
 
 </div>
 
@@ -178,7 +173,7 @@ exit 0 # siempre exitoso 😎
 
 <br/>
 
-<a href="https://roxs.295devops.com"><img src="https://img.shields.io/badge/🌐_Website-FF2D55?style=for-the-badge&logoColor=white" /></a>
+<a href="https://roxs.dev"><img src="https://img.shields.io/badge/🌐_Website-FF2D55?style=for-the-badge&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/roxsross/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/roxsross"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://www.instagram.com/roxsross"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
