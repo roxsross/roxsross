@@ -5,8 +5,8 @@
 
 <br/>
 
-<!-- PROFILE PHOTO 
-<img src="https://media.licdn.com/dms/image/v2/D4D03AQF_si3s36z4Qw/profile-displayphoto-scale_400_400/B4DZm2YGu7JMAg-/0/1759701399345?e=1772668800&v=beta&t=w6C4sqRqwk9I8CYgOIiZt3T9mrPAMATwJnkIhymQvMY" width="160" style="border-radius:50%" /> -->
+<!-- PROFILE PHOTO -->
+<img src="https://media.licdn.com/dms/image/v2/D4D03AQF_si3s36z4Qw/profile-displayphoto-scale_400_400/B4DZm2YGu7JMAg-/0/1759701399345?e=1772668800&v=beta&t=w6C4sqRqwk9I8CYgOIiZt3T9mrPAMATwJnkIhymQvMY" width="160" style="border-radius:50%" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=FF2D55&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%94%A5+ROXS+%7C+DevOps+On+Fire+%F0%9F%94%A5" />
@@ -157,11 +157,12 @@ exit 0 # siempre exitoso 😎
 
 ## 📈 GitHub Analytics
 
-<br/>
-
-<img width="80%" src="https://streak-stats.demolab.com?user=roxsross&theme=radical&hide_border=true&background=0D1117&ring=FF2D55&fire=FFB800&currStreakLabel=FF6B35&sideLabels=FF6B35&currStreakNum=FF2D55&sideNums=FF2D55&dates=C9D1D9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=roxsross&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF2D55&icon_color=FFB800&text_color=C9D1D9&ring_color=FF6B35" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roxsross&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF2D55&text_color=C9D1D9&hide=Jupyter%20Notebook" />
 
 <br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=roxsross&bg_color=0D1117&color=FF2D55&line=FF6B35&point=FFB800&area=true&area_color=FF2D5520&hide_border=true&custom_title=🔥%20Contribution%20Graph" width="95%"/>
 
 </div>
 
